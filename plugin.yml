@@ -1,0 +1,9 @@
+name: BungeeSigns
+main: net.galaxa.bs.Main
+version: 1.0
+author: Hari K
+
+commands:
+   bsign:
+    description: Set crucial locations.
+    usage: /<command>

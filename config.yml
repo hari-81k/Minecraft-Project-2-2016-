@@ -1,0 +1,15 @@
+# [server name] [IP]
+eusw1: localhost:25581
+eusw2: localhost:25567
+eusw3: localhost:25568
+eusw4: localhost:25569
+
+
+MOTD:
+  - recruiting 95:5
+  - full 95:2
+  - ingame 95:15
+
+# - [x] [y] [z] [line1, line2, line3, line4] [server]
+SignLocations:
+  - world!-3!71!661!null,%motd%,null,%cp%/%mp%!eusw1
